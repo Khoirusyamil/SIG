@@ -1,0 +1,28 @@
+WKT,﻿tipe,nama_wilayah,titik_koordinat,latitude,longitude
+"POINT (107.5195 -7.0219)",Kabupaten,Kab. Bandung,Soreang,-7.0219,107.5195
+"POINT (107.4903 -6.8433)",Kabupaten,Kab. Bandung Barat,Ngamprah,-6.8433,107.4903
+"POINT (107.1713733 -6.355043)",Kabupaten,Kab. Bekasi,Cikarang Pusat,-6.355043,107.1713733
+"POINT (106.854 -6.4817)",Kabupaten,Kab. Bogor,Cibinong,-6.4817,106.854
+"POINT (108.3334873 -7.3338726)",Kabupaten,Kab. Ciamis,Ciamis,-7.3338726,108.3334873
+"POINT (107.1425 -6.82)",Kabupaten,Kab. Cianjur,Cianjur,-6.82,107.1425
+"POINT (108.48 -6.76)",Kabupaten,Kab. Cirebon,Sumber,-6.76,108.48
+"POINT (107.9018336 -7.2251751)",Kabupaten,Kab. Garut,Garut,-7.2251751,107.9018336
+"POINT (108.32 -6.3264)",Kabupaten,Kab. Indramayu,Indramayu,-6.3264,108.32
+"POINT (107.2911205 -6.2987699)",Kabupaten,Kab. Karawang,Karawang,-6.2987699,107.2911205
+"POINT (108.4838 -6.9759)",Kabupaten,Kab. Kuningan,Kuningan,-6.9759,108.4838
+"POINT (108.2274 -6.8364)",Kabupaten,Kab. Majalengka,Majalengka,-6.8364,108.2274
+"POINT (108.6376404 -7.6825779)",Kabupaten,Kab. Pangandaran,Parigi,-7.6825779,108.6376404
+"POINT (107.4431 -6.5569)",Kabupaten,Kab. Purwakarta,Purwakarta,-6.5569,107.4431
+"POINT (107.7608 -6.5715)",Kabupaten,Kab. Subang,Subang,-6.5715,107.7608
+"POINT (106.5517 -6.9861)",Kabupaten,Kab. Sukabumi,Pelabuhanratu,-6.9861,106.5517
+"POINT (107.9237 -6.8591)",Kabupaten,Kab. Sumedang,Sumedang,-6.8591,107.9237
+"POINT (108.1257928 -7.35)",Kabupaten,Kab. Tasikmalaya,Singaparna,-7.35,108.1257928
+"POINT (107.6191 -6.9175)",Kota,Kota Bandung,Bandung,-6.9175,107.6191
+"POINT (108.5342 -7.3707)",Kota,Kota Banjar,Banjar,-7.3707,108.5342
+"POINT (106.9756 -6.2383)",Kota,Kota Bekasi,Bekasi,-6.2383,106.9756
+"POINT (106.806 -6.5971)",Kota,Kota Bogor,Bogor,-6.5971,106.806
+"POINT (107.5425001 -6.884471)",Kota,Kota Cimahi,Cimahi,-6.884471,107.5425001
+"POINT (108.5523 -6.732)",Kota,Kota Cirebon,Cirebon,-6.732,108.5523
+"POINT (106.7942 -6.4025)",Kota,Kota Depok,Depok,-6.4025,106.7942
+"POINT (106.93 -6.9277)",Kota,Kota Sukabumi,Sukabumi,-6.9277,106.93
+"POINT (108.2207 -7.3274)",Kota,Kota Tasikmalaya,Tasikmalaya,-7.3274,108.2207
